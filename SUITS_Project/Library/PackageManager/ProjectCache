@@ -1,19 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/djbub/OneDrive/Documents/GitHub/SUITS_Project/SUITS_Project/Packages/manifest.json
+    m_FilePath: C:/Users/ariya/Documents/GitHub/SUITS_Project/SUITS_Project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638735521283458306
+      ticks: 638738013795931076
     m_Hash: 1002757927
   m_LockFileStatus:
-    m_FilePath: C:/Users/djbub/OneDrive/Documents/GitHub/SUITS_Project/SUITS_Project/Packages/packages-lock.json
+    m_FilePath: C:/Users/ariya/Documents/GitHub/SUITS_Project/SUITS_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638735521283478639
+      ticks: 638738013795970379
     m_Hash: 2094494262
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.15.7
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.collab-proxy@1.15.7
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.collab-proxy@1.15.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -200,7 +200,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -345,7 +345,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.14
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -450,7 +450,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.vscode@1.2.4
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -523,7 +523,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.test-framework@1.1.29
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -658,7 +658,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -846,7 +846,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1040,7 +1040,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1106,7 +1106,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1154,7 +1154,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1202,7 +1202,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1250,7 +1250,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1298,7 +1298,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1346,7 +1346,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1398,7 +1398,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1454,7 +1454,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1503,7 +1503,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1551,7 +1551,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1599,7 +1599,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1647,7 +1647,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1695,7 +1695,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1743,7 +1743,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1795,7 +1795,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -1843,7 +1843,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -1899,7 +1899,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -1951,7 +1951,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -1999,7 +1999,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2063,7 +2063,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2111,7 +2111,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2167,7 +2167,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2215,7 +2215,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2271,7 +2271,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2327,7 +2327,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2383,7 +2383,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2455,7 +2455,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2507,7 +2507,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2567,7 +2567,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2629,7 +2629,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2677,7 +2677,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2732,12 +2732,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.microsoft.mixedreality.toolkit.examples@file:C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz
+    - packageId: com.microsoft.mixedreality.toolkit.examples@file:C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz
       testable: 0
       isDirectDependency: 1
       version: 2.8.2
       source: 6
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.examples@6a34daaa36f1-1737955328247
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.examples@00ea3513eb4f-1738204579505
       assetPath: Packages/com.microsoft.mixedreality.toolkit.examples
       name: com.microsoft.mixedreality.toolkit.examples
       displayName: Mixed Reality Toolkit Examples
@@ -2803,12 +2803,12 @@ m_PackageAssets:
         url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
         revision: 
         path: 
-    - packageId: com.microsoft.mixedreality.toolkit.extensions@file:C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz
+    - packageId: com.microsoft.mixedreality.toolkit.extensions@file:C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz
       testable: 0
       isDirectDependency: 1
       version: 2.8.2
       source: 6
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.extensions@24269637e626-1737955328259
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.extensions@1e8c57024d9f-1738204579510
       assetPath: Packages/com.microsoft.mixedreality.toolkit.extensions
       name: com.microsoft.mixedreality.toolkit.extensions
       displayName: Mixed Reality Toolkit Extensions
@@ -2873,12 +2873,12 @@ m_PackageAssets:
         url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
         revision: 
         path: 
-    - packageId: com.microsoft.mixedreality.toolkit.foundation@file:C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz
+    - packageId: com.microsoft.mixedreality.toolkit.foundation@file:C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz
       testable: 0
       isDirectDependency: 1
       version: 2.8.2
       source: 6
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.foundation@cd7ee88b7c8d-1737955328318
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.foundation@6232da366c3e-1738204579566
       assetPath: Packages/com.microsoft.mixedreality.toolkit.foundation
       name: com.microsoft.mixedreality.toolkit.foundation
       displayName: Mixed Reality Toolkit Foundation
@@ -2939,12 +2939,12 @@ m_PackageAssets:
         url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
         revision: 
         path: 
-    - packageId: com.microsoft.mixedreality.openxr@file:C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz
+    - packageId: com.microsoft.mixedreality.openxr@file:C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz
       testable: 0
       isDirectDependency: 1
       version: 1.5.0
       source: 6
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.openxr@ab3bf794d359-1737955328004
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.openxr@6915c035332a-1738204579231
       assetPath: Packages/com.microsoft.mixedreality.openxr
       name: com.microsoft.mixedreality.openxr
       displayName: Mixed Reality OpenXR Plugin
@@ -2959,11 +2959,7 @@ m_PackageAssets:
       status: 4
       errors: []
       versions:
-        all:
-        - 1.10.0
-        - 1.10.1
-        - 1.11.1
-        - 1.11.2
+        all: []
         compatible: []
         verified: 
       dependencies:
@@ -3033,12 +3029,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.microsoft.mixedreality.toolkit.standardassets@file:C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz
+    - packageId: com.microsoft.mixedreality.toolkit.standardassets@file:C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz
       testable: 0
       isDirectDependency: 1
       version: 2.8.2
       source: 6
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.standardassets@37d5d031d3f4-1737955328346
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.microsoft.mixedreality.toolkit.standardassets@04a23647b5ba-1738204579592
       assetPath: Packages/com.microsoft.mixedreality.toolkit.standardassets
       name: com.microsoft.mixedreality.toolkit.standardassets
       displayName: Mixed Reality Toolkit Standard Assets
@@ -3105,7 +3101,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.1.7
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.arfoundation@4.1.7
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.arfoundation@4.1.7
       assetPath: Packages/com.unity.xr.arfoundation
       name: com.unity.xr.arfoundation
       displayName: AR Foundation
@@ -3401,7 +3397,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.2.0
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.management@4.2.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.management@4.2.0
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -3548,7 +3544,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.4.2
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.openxr@1.4.2
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.openxr@1.4.2
       assetPath: Packages/com.unity.xr.openxr
       name: com.unity.xr.openxr
       displayName: OpenXR Plugin
@@ -3691,7 +3687,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3743,7 +3739,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3802,7 +3798,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3871,7 +3867,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.services.core@1.0.1
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.services.core@1.0.1
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
       displayName: Services Core
@@ -3880,7 +3876,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: asset
+      type: 
       description: 'This package defines common components used by multiple Game
         Service packages.
 
@@ -3891,67 +3887,8 @@ m_PackageAssets:
       versions:
         all:
         - 1.0.1
-        - 1.1.0-pre.7
-        - 1.1.0-pre.8
-        - 1.1.0-pre.9
-        - 1.1.0-pre.10
-        - 1.1.0-pre.11
-        - 1.1.0-pre.41
-        - 1.1.0-pre.69
-        - 1.2.0
-        - 1.3.1
-        - 1.3.2
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.5.2
-        - 1.6.0
-        - 1.7.0
-        - 1.7.1
-        - 1.8.1
-        - 1.8.2
-        - 1.9.0
-        - 1.10.1
-        - 1.11.0
-        - 1.12.0
-        - 1.12.1
-        - 1.12.2
-        - 1.12.4
-        - 1.12.5
-        - 1.13.0
-        - 1.14.0
         compatible:
         - 1.0.1
-        - 1.1.0-pre.7
-        - 1.1.0-pre.8
-        - 1.1.0-pre.9
-        - 1.1.0-pre.10
-        - 1.1.0-pre.11
-        - 1.1.0-pre.41
-        - 1.1.0-pre.69
-        - 1.2.0
-        - 1.3.1
-        - 1.3.2
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.5.2
-        - 1.6.0
-        - 1.7.0
-        - 1.7.1
-        - 1.8.1
-        - 1.8.2
-        - 1.9.0
-        - 1.10.1
-        - 1.11.0
-        - 1.12.0
-        - 1.12.1
-        - 1.12.2
-        - 1.12.4
-        - 1.12.5
-        - 1.13.0
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest
@@ -3968,11 +3905,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637604883250000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3985,7 +3922,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -4009,40 +3946,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
         - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        - 3.0.1
-        - 3.0.2
-        - 3.1.0
-        - 3.2.0
-        - 3.2.1
         compatible:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
         - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        - 3.0.1
-        - 3.0.2
-        - 3.1.0
-        - 3.2.0
-        - 3.2.1
-        verified: 2.0.2
+        verified: 2.0.0
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -4058,7 +3965,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637237898320000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -4071,7 +3978,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.3.0
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.inputsystem@1.3.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.inputsystem@1.3.0
       assetPath: Packages/com.unity.inputsystem
       name: com.unity.inputsystem
       displayName: Input System
@@ -4241,7 +4148,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.1.8
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.8
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.8
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -4249,8 +4156,8 @@ m_PackageAssets:
         name: 
         email: 
         url: 
-      category: 
-      type: asset
+      category: XR
+      type: 
       description: This package includes the tracked pose driver for the legacy input
         system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
         Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
@@ -4261,38 +4168,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0
-        - 1.0.2
-        - 1.0.3
-        - 1.3.1
-        - 1.3.2
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
-        - 1.3.11
-        - 2.0.1
-        - 2.0.2
-        - 2.0.4
-        - 2.0.6
-        - 2.0.8
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.1.4
-        - 2.1.6
-        - 2.1.7
         - 2.1.8
-        - 2.1.9
-        - 2.1.10
-        - 2.1.11
         compatible:
         - 2.1.8
-        - 2.1.9
-        - 2.1.10
-        - 2.1.11
-        verified: 2.1.11
+        verified: 2.1.8
       dependencies:
       - name: com.unity.modules.vr
         version: 1.0.0
@@ -4323,11 +4202,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637623088970000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -4340,7 +4219,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.1.9
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.arsubsystems@4.1.9
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.xr.arsubsystems@4.1.9
       assetPath: Packages/com.unity.xr.arsubsystems
       name: com.unity.xr.arsubsystems
       displayName: AR Subsystems
@@ -4349,119 +4228,17 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: asset
+      type: 
       description: Contains definitions for AR Subsystems. This package is a dependency
         of provider packages, as well as AR Foundation.
       status: 4
       errors: []
       versions:
         all:
-        - 2.0.2
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.1.14
-        - 2.1.16
-        - 2.1.18
-        - 2.1.19
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0
-        - 3.0.2
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
-        - 3.1.3
-        - 3.1.5
-        - 3.1.6
-        - 3.1.10
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.1
-        - 4.0.8
-        - 4.0.9
-        - 4.0.10
-        - 4.0.12
-        - 4.1.0-preview.1
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
-        - 4.1.3
-        - 4.1.5
-        - 4.1.7
         - 4.1.9
-        - 4.1.10
-        - 4.1.12
-        - 4.1.13
-        - 4.2.0-pre.2
-        - 4.2.0-pre.3
-        - 4.2.0-pre.4
-        - 4.2.0-pre.5
-        - 4.2.0-pre.7
-        - 4.2.0-pre.8
-        - 4.2.0-pre.9
-        - 4.2.0-pre.10
-        - 4.2.0-pre.12
-        - 4.2.0
-        - 4.2.1
-        - 4.2.2
-        - 4.2.3
-        - 4.2.6
-        - 4.2.7
-        - 4.2.8
-        - 4.2.9
-        - 4.2.10
-        - 5.0.0-pre.5
-        - 5.0.0-pre.6
-        - 5.0.0-pre.7
-        - 5.0.0-pre.8
-        - 5.0.0-pre.9
-        - 5.0.0-pre.12
-        - 5.0.0-pre.13
-        - 5.0.2
         compatible:
         - 4.1.9
-        - 4.1.10
-        - 4.1.12
-        - 4.1.13
-        - 4.2.0-pre.2
-        - 4.2.0-pre.3
-        - 4.2.0-pre.4
-        - 4.2.0-pre.5
-        - 4.2.0-pre.7
-        - 4.2.0-pre.8
-        - 4.2.0-pre.9
-        - 4.2.0-pre.10
-        - 4.2.0-pre.12
-        - 4.2.0
-        - 4.2.1
-        - 4.2.2
-        - 4.2.3
-        - 4.2.6
-        - 4.2.7
-        - 4.2.8
-        - 4.2.9
-        - 4.2.10
-        verified: 4.1.13
+        verified: 4.1.9
       dependencies:
       - name: com.unity.subsystemregistration
         version: 1.1.0
@@ -4484,11 +4261,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637781298810000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -4501,7 +4278,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.subsystemregistration@1.1.0
+      resolvedPath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Library\PackageCache\com.unity.subsystemregistration@1.1.0
       assetPath: Packages/com.unity.subsystemregistration
       name: com.unity.subsystemregistration
       displayName: Subsystem Registration
@@ -4510,26 +4287,19 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: asset
+      type: 
       description: Provides internal registration mechanism for standalone subsystems. 
         It allows a standalone subsystem to inform the Subsystem Manager of its existence.
       status: 4
       errors: []
       versions:
         all:
-        - 1.0.0-preview.4
-        - 1.0.4
-        - 1.0.5
         - 1.0.6
         - 1.1.0
-        - 1.1.1
-        - 1.1.2
         compatible:
         - 1.0.6
         - 1.1.0
-        - 1.1.1
-        - 1.1.2
-        verified: 1.1.2
+        verified: 1.1.0
       dependencies:
       - name: com.unity.modules.subsystems
         version: 1.0.0
@@ -4550,11 +4320,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314426150000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -4564,75 +4334,75 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus:
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz/package.json
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 0
       m_Hash: 0
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638735521282465063
+        ticks: 638738013795051827
       m_Hash: 2607148044
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz/package.json
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 0
       m_Hash: 0
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638735521282593976
+        ticks: 638738013795101817
       m_Hash: 108513025
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz/package.json
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 0
       m_Hash: 0
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638735521283178916
+        ticks: 638738013795661230
       m_Hash: 2211007518
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz/package.json
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 0
       m_Hash: 0
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.5.0.tgz
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638735521280040306
+        ticks: 638738013792308121
       m_Hash: 2603834025
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz/package.json
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
         ticks: 0
       m_Hash: 0
-    - m_FilePath: C:\Users\djbub\OneDrive\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz
+    - m_FilePath: C:\Users\ariya\Documents\GitHub\SUITS_Project\SUITS_Project\Packages\MixedReality\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638735521283458306
+        ticks: 638738013795921034
       m_Hash: 278339598
-m_ProjectPath: C:/Users/djbub/OneDrive/Documents/GitHub/SUITS_Project/SUITS_Project/Packages
+m_ProjectPath: C:/Users/ariya/Documents/GitHub/SUITS_Project/SUITS_Project/Packages
 m_EditorVersion: 2020.3.28f1 (f5400f52e03f)
