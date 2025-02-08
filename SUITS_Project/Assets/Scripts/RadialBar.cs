@@ -19,7 +19,7 @@ public class RadialBar : MonoBehaviour
     }
 
     void Update(){
-        print(name + " fill: " + fill);
+        //print(name + " fill: " + fill);
         fill = (radialImage.fillAmount)*100;
         tmp.text = fill + "/" + maxValue;
     }
