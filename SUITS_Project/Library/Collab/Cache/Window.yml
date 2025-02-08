@@ -15,6 +15,11 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - .collabignore
+    - Assets/Images.meta
+    - Assets/Images/circle(front).png
+    - Assets/Images/circle(front).png.meta
+    - Assets/Images/circle(radius).png
+    - Assets/Images/circle(radius).png.meta
     - Assets/MRTK.meta
     - Assets/MRTK/Shaders.meta
     - Assets/MRTK/Shaders/ChannelPacker.shader
@@ -39,8 +44,15 @@ MonoBehaviour:
     - Assets/MRTK/Shaders/MixedRealityTextMeshProSprite.shader.meta
     - Assets/MRTK/Shaders/Text3DShader.shader
     - Assets/MRTK/Shaders/Text3DShader.shader.meta
+    - Assets/Materials.meta
+    - Assets/Materials/test.mat
+    - Assets/Materials/test.mat.meta
+    - Assets/Materials/test2.mat
+    - Assets/Materials/test2.mat.meta
     - Assets/MixedRealityToolkit.Generated.meta
     - Assets/MixedRealityToolkit.Generated/CustomProfiles.meta
+    - Assets/MixedRealityToolkit.Generated/CustomProfiles/New MixedRealityDiagnosticsProfile.asset
+    - Assets/MixedRealityToolkit.Generated/CustomProfiles/New MixedRealityDiagnosticsProfile.asset.meta
     - Assets/MixedRealityToolkit.Generated/CustomProfiles/New MixedRealityToolkitConfigurationProfile.asset
     - Assets/MixedRealityToolkit.Generated/CustomProfiles/New MixedRealityToolkitConfigurationProfile.asset.meta
     - Assets/MixedRealityToolkit.Generated/MRTK.Generated.sentinel
@@ -49,6 +61,12 @@ MonoBehaviour:
     - Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset.meta
     - Assets/MixedRealityToolkit.Generated/link.xml
     - Assets/MixedRealityToolkit.Generated/link.xml.meta
+    - Assets/Models.meta
+    - Assets/Models/taskbar_ui_test.blend
+    - Assets/Models/taskbar_ui_test.blend.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Vitals.prefab
+    - Assets/Prefabs/Vitals.prefab.meta
     - Assets/Scenes.meta
     - Assets/Scenes/Main.unity
     - Assets/Scenes/Main.unity.meta
@@ -56,6 +74,9 @@ MonoBehaviour:
     - Assets/Scenes/SampleScene.unity.meta
     - Assets/Scenes/ari.unity
     - Assets/Scenes/ari.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/RadialBar.cs
+    - Assets/Scripts/RadialBar.cs.meta
     - Assets/TextMesh Pro.meta
     - Assets/TextMesh Pro/Documentation.meta
     - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
@@ -463,7 +484,7 @@ MonoBehaviour:
     - ProjectSettings/VFXManager.asset
     - ProjectSettings/VersionControlSettings.asset
     - 
-    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

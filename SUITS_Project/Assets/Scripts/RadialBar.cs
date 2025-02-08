@@ -1,31 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI; 
-using TMPro;  
+using UnityEngine.UI;
+using TMPro;
 
 public class RadialBar : MonoBehaviour
 {
-    public Image fill;
-    public TextMeshProUGUI amount;
-    public int currentValue, maxValue;
-    // Start is called before the first frame update
+    public Image radialImage; // Reference to the UI Image with Radial 360 fill
+    public TextMeshProUGUI tmp; // Reference to the TextMeshProUGUI
+    public string name = "";
+    public float maxValue = 100f;
+    private float currentValue;
+    private float fill;
+
     void Start()
     {
-        fill.fillAmount = Normalize();
-        amount.text = $"{currentValue}/{maxValue}";
+        currentValue = maxValue; // Initialize current value to max
+        fill = radialImage.fillAmount;
+        tmp.text = "100/100";
     }
 
-    public void Add(int val){
-        currentValue += val;
-        if(currentValue>maxValue){
-            currentValue = maxValue;
-        }
-        fill.fillAmount = Normalize();
-        amount.text = $"{currentValue}/{maxValue}";
-    }
-
-    private float Normalize(){
-        return (float)currentValue/maxValue;
+    void Update(){
+        print(name + " fill: " + fill);
+        fill = (radialImage.fillAmount)*100;
+        tmp.text = fill + "/" + maxValue;
     }
 }
